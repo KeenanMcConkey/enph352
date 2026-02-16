@@ -1,5 +1,5 @@
 # enph352
-Papers for ENPH 352 - Experimental Physics
+Papers and MATLAB code for experimental physics projects
 
 ## Experiment 1 - Nuclear Magnetic Resonance
 
