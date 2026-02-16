@@ -1,0 +1,13 @@
+RF frequency,300 kHz
+Modulation,5 Hz square wave between 0 and 5 V
+Field,Tuned to the 85Rb resonance
+Trigger,Falling edge of square wave
+RF Amplitude,5 Vpp
+Temperature,50 C
+Ch 1,5 Hz square wave
+Ch 2,Detector
+,
+File,Polarizer Angle (deg)
+2,45
+5,80
+7,65
